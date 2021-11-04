@@ -1,2 +1,2 @@
 # 4a-docs
-Repositorio correspondiente al ciclo 4 de misión TIC 2022.
+Repositorio correspondiente al proyecto web del ciclo 4 de misión TIC 2022.
