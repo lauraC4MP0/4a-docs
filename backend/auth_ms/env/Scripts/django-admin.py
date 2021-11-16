@@ -1,4 +1,4 @@
-#!c:\users\lauri\downloads\4a-docs\auth_ms\env\scripts\python.exe
+#!C:\Users\15-dy2057\OneDrive\6. Capacitaciones\3. CURSO MISIÓN TIC 2022\PROGRAMACIÓN\ProyectoCiclo4\4a-docs\backend\env\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
