@@ -1,4 +1,4 @@
-#!c:\users\lauri\downloads\4a-docs\auth_ms\env\scripts\python.exe
+#!c:\users\lauri\downloads\4a-docs\backend\auth_ms\env\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
