@@ -89,7 +89,7 @@ TEMPLATES = [
         },
     },
 ]
-
+AUTH_USER_MODEL = 'authApp.User'
 WSGI_APPLICATION = 'authProject.wsgi.application'
 
 
