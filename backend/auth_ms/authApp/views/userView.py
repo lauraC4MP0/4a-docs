@@ -9,3 +9,7 @@ from authApp.serializers.userSerializer import UserSerializer
 class UserCreateView(generics.ListCreateAPIView):
          queryset = User.objects.all()              
          serializer_class = UserSerializer
+
+class UserDetailView(generics.RetrieveUpdateDestroyAPIView):
+    queryset = User.objects.all()              
+    serializer_class = UserSerializer
