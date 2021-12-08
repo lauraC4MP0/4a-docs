@@ -26,7 +26,7 @@ class UserManager(BaseUserManager):
 
 
 class User(AbstractBaseUser, PermissionsMixin):
-    idUser      = models.IntegerField(primary_key=True)
+    id      = models.IntegerField(primary_key=True)
     username    = models.CharField('Username', max_length = 45, unique=True)
     password    = models.CharField('Password', max_length = 256)
     name        = models.CharField('Name', max_length = 45)
