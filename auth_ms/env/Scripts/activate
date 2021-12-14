@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\lauri\Downloads\4a-docs\backend\auth_ms\env"
+VIRTUAL_ENV="C:\Users\lauri\Downloads\4a-docs-auth-ms\auth_ms\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
